@@ -1,1 +1,0 @@
-const inicio: string = 'INICIO';
